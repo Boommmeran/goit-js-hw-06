@@ -10,6 +10,3 @@ function onInputBlur() {
     inputRef.classList.add('invalid');
   }
 }
-
-inputRef.getAttribute
-
